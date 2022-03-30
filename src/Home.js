@@ -43,7 +43,7 @@ function Home() {
             <div className="home__meta">
               <h1 className="home__text pz__10">WELCOME TO MY WORLD</h1>
               <h2 className="home__text pz__10">Hi, I’m Durgeshwar Sahani</h2>
-              <h3 className="home__text sweet pz__10">MERN Developer.</h3>
+              <h3 className="home__text sweet pz__10">Software Developer.</h3>
                
             </div>
           </div>
