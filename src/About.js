@@ -44,8 +44,8 @@ function About() {
               </p>
               <div className="about__button d__flex align__items__center">
                 <a href="#">
-                  <button className="about btn pointer">
-                    <a href="https://drive.google.com/file/d/1JaVbAwhhoS3Z28NVFo1QXh561VHEtf9s/view?usp=sharing">
+                  <button className="about btn pointer"> 
+                    <a href="https://drive.google.com/file/d/19LnfUZRngHnfrazsqk5RA67FpREIyHb9/view?usp=sharing">
                       Download Cv
                     </a>
                   </button>
